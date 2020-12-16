@@ -1,0 +1,32 @@
+body {
+  padding: 12px;
+}
+
+input {
+  width: 250px;
+  height: 40px;
+  margin: 10px;
+  padding-left: 12px;
+  border: 1px solid #ddd;
+}
+
+button {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 3px;
+  margin: 10px;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+li {
+  background: rgb(5, 1, 32);
+  width: 30%;
+  padding: 12px;
+  color: white;
+  margin-top: 15px;
+  border-radius: 12px;
+  box-shadow: 3px 3px 12px rgba(5, 1, 32, 0.3);
+}
